@@ -9,12 +9,13 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **mishrashashwat.sharat@gmail.com**
+- 📫 How to reach me -> **mishrashashwat.sharat@gmail.com**
 
-- ⚡ Fun fact **I believe I am a gamer**
+- ⚡ Fun fact: **I believe I am a gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/_s_h_a_s_h_w_a_t__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_s_h_a_s_h_w_a_t__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shashwatmishra2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwatmishra2411" height="30" width="40" /></a>
 </p>
 
