@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwatmishra2411" alt="shashwatmishra2411" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **tRPC**
 
 - 📫 How to reach me -> **mishrashashwat.sharat@gmail.com**
 
